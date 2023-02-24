@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934788758916",
+    "project_id": "frusket-1d3f9",
+    "storage_bucket": "frusket-1d3f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934788758916:android:428a83329b624a51c1b1d1",
+        "android_client_info": {
+          "package_name": "com.example.frusket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934788758916-22ntmu3b851cgobd400i49mcm66h38bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCCDu58fqavP9paZtO6eNIkSWh3UeXh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934788758916-22ntmu3b851cgobd400i49mcm66h38bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
